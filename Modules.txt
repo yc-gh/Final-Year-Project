@@ -1,0 +1,9 @@
+pip install pandas
+pip install numpy
+pip install tensorflow
+pip install keras
+pip install pathlib # Python 3.5+
+pip install -q pyyaml h5py  # Required to save models in HDF5 format
+
+# Linux - install tkinter 
+# sudo apt-get install python3-tk
